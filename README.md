@@ -21,7 +21,7 @@ bulipe\_chatbot/
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
 
-````
+```
 
 ---
 
